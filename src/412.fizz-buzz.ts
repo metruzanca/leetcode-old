@@ -21,3 +21,15 @@ function fizzBuzz(n: number) {
   return arr 
 };
 // @lc code=end
+
+// Leetcode Stats
+export default {
+  runtime: {
+    percent: 68.45,
+    ms: 88,
+  },
+  memory: {
+    percent: 77.98,
+    mb: 41,
+  }
+}

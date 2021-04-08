@@ -1,0 +1,19 @@
+{
+	"Leetcode Stats": {
+		"prefix": "lcs",
+		"body": [
+			"// Leetcode Stats",
+			"export default {",
+			"  runtime: {",
+			"    percent: ${1},",
+			"    ms: ${2},",
+			"  },",
+			"  memory: {",
+			"    percent: ${3},",
+			"    mb: ${4},",
+			"  }",
+			"}"
+		],
+		"description": "Leetcode Stats"
+	}
+}
