@@ -13,7 +13,7 @@
 - [ ] [Reverse LinkedList I](206.reverse-linked-list.ts)
   - Its a meme question, so I had to get this one out of the way.
 
-Starting the [75 Blind](75blind.md) Questions
+Starting the [75 Blind](../docs/75blind.md) Questions
 - [ ] [Two Sum]()
   - I previously completed this one in the past, but leetcode doesn't have my solution anymore for some reason... Time to redo it!
 - [ ] [Best Time to Buy and Sell Stock]()
