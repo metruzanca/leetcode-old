@@ -12,6 +12,7 @@
 - [x] [Roman Numberals to Integers](13.roman-to-integer.ts)
 - [ ] [Reverse LinkedList I](206.reverse-linked-list.ts)
   - Its a meme question, so I had to get this one out of the way.
+  - I'm really bad at linkedlists for some reason. This animation really helped me https://www.youtube.com/watch?v=D7y_hoT_YZI
 
 Starting the [75 Blind](../docs/75blind.md) Questions
 - [ ] [Two Sum]()
