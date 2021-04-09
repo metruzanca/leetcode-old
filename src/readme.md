@@ -1,3 +1,8 @@
+## Some misc notes
+
+[Weird Math Stuff](../docs/math-things-that-just-work.md)
+
+
 # Personal Progress
 - [x]  [FizzBuzz](412.fizz-buzz.ts)
   - *Did this one to test out vscode extension*
