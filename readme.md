@@ -25,11 +25,18 @@ _Why aren't I just using the web ui?_
 
 3. Change Leetcode extension default workspace location to `<repository-root>/src`
 
-<details><summary>Workflow examples:</summary>
+
+Workflow Example: 
+
+![](docs/assets/vscode_leetcode.png)
+
+<details><summary>More examples:</summary>
 <p>
 
-  ![](docs/assets/vscode_leetcode.png)
   ![](docs/assets/vscode_leetcode2.png)
+
+  <br/>
+
   ![](docs/assets/viewing_results.png)
 
 </p>
